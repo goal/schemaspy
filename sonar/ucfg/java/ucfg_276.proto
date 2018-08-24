@@ -1,0 +1,21 @@
+
+xorg.schemaspy.model.Database#getRemoteTableKey(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (catschtable"1*Ž
+1b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java’ ’(¢
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java’! ’(*%08org.schemaspy.model.Database#getName()Ljava/lang/String;‘
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java’ ’(<%1org.schemaspy.model.Table#getFullName(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+
+%0"
+
+cat"
+
+sch"	
+
+table"l
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java’ ’(=
+
+%1

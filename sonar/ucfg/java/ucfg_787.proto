@@ -1,0 +1,28 @@
+
+/org.schemaspy.view.DotNode#getColumnMaxWidth()I
+__unknown_file ("6*Ñ
+1`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javañ ñ("j
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javañ ñ(
+""*Â
+4`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaì ì(#£
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaì$ ì(4%2;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;¬
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaì ì(5%3<org.schemaspy.view.DotNode#getTextWidth(Ljava/lang/String;)I"
+
+%2*
+4
+1*¼
+6`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaê ê(#
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaê$ ê(3%05org.schemaspy.model.Table#getName()Ljava/lang/String;¬
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaê ê(4%1<org.schemaspy.view.DotNode#getTextWidth(Ljava/lang/String;)I"
+
+%0*
+4
+1

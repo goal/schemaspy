@@ -1,0 +1,20 @@
+
+Qorg.schemaspy.DbAnalyzer#getCatalogs(Ljava/sql/DatabaseMetaData;)Ljava/util/List;
+__unknown_file (meta"2"1*Í
+1^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÇ Ç(
+"h
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÉ É(
+""*½
+2^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÅ Å(·
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÅ Å(2%0Bjava.sql.ResultSet#getString(Ljava/lang/String;)Ljava/lang/String;"
+	TABLE_CAT•
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÅ Å(3%1'java.util.List#add(Ljava/lang/Object;)Z"
+
+%0*
+2
+1

@@ -1,0 +1,161 @@
+
+rorg.schemaspy.DbDriverLoader#createMessage([Ljava/lang/String;Ljava/lang/String;Ljava/util/Set;)Ljava/lang/String;
+__unknown_file (driverClass
+driverPath	classpath"16*î
+12b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java¡ ¡(¬
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java¡ ¡(%12Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+ emptyù
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java¡' ¡(=%132java.lang.System#lineSeparator()Ljava/lang/String;ø
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java¡ ¡(>%14Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%13*
+7*¯
+1b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java” ”(ü
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java” ”(%344java.lang.StringBuilder#toString()Ljava/lang/String;"m
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java” ”(
+
+%34*ß
+13b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ º(5Ω
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ º(5%7Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+""º
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ Ω(%8Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+.ú
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaæ æ(.%92java.lang.System#lineSeparator()Ljava/lang/String;æ
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ æ(/%10Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%9”
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ ø(2%11Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+Resulting in classpath:*
+11
+12*µ
+2b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaŒ Œ(Ù
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaŒ œ(W%30Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"<:
+8Use commandline option '-dp' to specify driver location.ù
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java– –(2%312java.lang.System#lineSeparator()Ljava/lang/String;ø
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaŒ –(3%32Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%31Ì
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaŒ —(P%33Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"53
+1If you need to load sibling jars used '-loadjars'*
+1*È
+3b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaÀ À(x
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaÀ À(path__id"
+
+""*
+2
+4*“
+4b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaÃ Ã(æ
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaÃ Ã(%26Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+\t¿
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaÃ Ã(,%27Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+pathù
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaÃ4 Ã(J%282java.lang.System#lineSeparator()Ljava/lang/String;ø
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.javaÃ Ã(K%29Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%28*
+3*â
+16b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ ∂(.‘
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ ∑(4%0Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+Failed to create any of 'À
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∏; ∏(S%1Yjava.util.stream.Collectors#joining(Ljava/lang/CharSequence;)Ljava/util/stream/Collector;"
+, ¡
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∏ ∏(T%2Ojava.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;"
+
+%1Ω
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ ∏(U%3Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%2’
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ π(5%4Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+' driver from driverPath '≈
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ ∫(#%5Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+
+driverPathœ
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java∂ ª(/%6Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+' with sibling jars *
+13*¥
+6b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java   („
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java   (@%23Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"+)
+'There were missing paths in driverPath:ù
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java H  (^%242java.lang.System#lineSeparator()Ljava/lang/String;ø
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java   (_%25Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%24*
+3*Ω
+7b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java»$ »(3À
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java»$ »(?%22Porg.schemaspy.DbDriverLoader#getMissingPaths(Ljava/lang/String;)Ljava/util/List;"
+
+
+driverPath*
+6
+1*Î
+9b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java≈ ≈(æ
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java≈ ≈(%17Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+\tî
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java≈' ≈(5%18)java.net.URI#toString()Ljava/lang/String;ø
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java≈ ≈(6%19Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%18ù
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java≈> ≈(T%202java.lang.System#lineSeparator()Ljava/lang/String;ø
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java≈ ≈(U%21Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%20*
+7
+9*“
+11b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java√ √(ù
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java√ √(,%152java.lang.System#lineSeparator()Ljava/lang/String;ø
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbDriverLoader.java√ √(-%16Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%15*
+7
+9

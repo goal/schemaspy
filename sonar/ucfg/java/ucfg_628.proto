@@ -1,0 +1,36 @@
+
+Zorg.schemaspy.service.SqlService#getQuotedIdentifier(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (id"5*Ý
+1f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/SqlService.javaÑ Ñ("p
+f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/SqlService.javaÑ Ñ(
+
+id*¬
+2f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/SqlService.javaÍ Í("Ì
+f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/SqlService.javaÍ Í(&%2Vorg.schemaspy.service.SqlService#quoteIdentifier(Ljava/lang/String;)Ljava/lang/String;"
+
+id"p
+f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/SqlService.javaÍ Í('
+
+%2*—
+4f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/SqlService.javaÉ3 É(>¡
+f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/SqlService.javaÉ3 É(K%1+java.util.Set#contains(Ljava/lang/Object;)Z"
+
+id*
+2
+1*Á
+5f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/SqlService.javaÇ Ç(2È
+f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/SqlService.javaÇ Ç(>%0Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+
+id*	
+2
+4
+1

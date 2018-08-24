@@ -1,0 +1,57 @@
+
+@org.schemaspy.util.DbSpecificOption#toString()Ljava/lang/String;
+__unknown_file ("1*Ñ
+1g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java= =(†
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java= =()%01java.lang.Class#getSimpleName()Ljava/lang/String;ç
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java= =(6%1__concat"
+
+%0"
+
+ name: 'Æ
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java=9 =(B%2?org.schemaspy.util.DbSpecificOption#getName()Ljava/lang/String;á
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java= =(B%3__concat"
+
+%1"
+
+%2è
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java= =(Q%4__concat"
+
+%3"
+
+' value: 'Ø
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java=T =(^%5@org.schemaspy.util.DbSpecificOption#getValue()Ljava/lang/String;á
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java= =(^%6__concat"
+
+%4"
+
+%5ï
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java= =(s%7__concat"
+
+%6"
+' description: '∂
+h
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java=v =(Ü%8Forg.schemaspy.util.DbSpecificOption#getDescription()Ljava/lang/String;à
+h
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java= =(Ü%9__concat"
+
+%7"
+
+%8à
+h
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java= =(å%10__concat"
+
+%9"
+'"s
+h
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificOption.java= =(ç
+
+%10

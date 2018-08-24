@@ -1,0 +1,20 @@
+
+_org.schemaspy.cli.CommandLineArgumentParser#createJCommander()Lcom/beust/jcommander/JCommander;
+__unknown_file ("1*®
+1o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.javaG G(°
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.javaI, I(E%09org.schemaspy.Config#getLoadedFromJar()Ljava/lang/String;—
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.javaI I(E%1__concat"
+
+java -jar "
+
+%0ï
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.javaG I(F%2pcom.beust.jcommander.JCommander$Builder#programName(Ljava/lang/String;)Lcom/beust/jcommander/JCommander$Builder;"
+
+%1"y
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.javaG L(
+""

@@ -1,0 +1,79 @@
+
+Horg.schemaspy.view.HtmlDiagramFormatter#getDot()Lorg/schemaspy/util/Dot;
+__unknown_file ("2"3"6"7"1*ç
+1k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java@ @("u
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java@ @(
+""*ç
+2k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java= =("u
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java= =(
+""*›
+3k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java6/ 6(3¼
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java8# 8(s%7__concat"75
+3Warning: Invalid version of Graphviz dot detected ("
+""‹
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java8# 8(z%8__concat"
+
+%7"
+).«
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java8 8({%90java.io.PrintStream#println(Ljava/lang/String;)V"
+
+%8³
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java9> 9(X%10?org.schemaspy.util.Dot#getSupportedVersions()Ljava/lang/String;¡
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java9# 9(X%11__concat"
+   SchemaSpy requires "
+
+%10£
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java9# 9(u%12__concat"
+
+%11"
+. from www.graphviz.org.­
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java9 9(v%130java.io.PrintStream#println(Ljava/lang/String;)V"
+
+%12ø
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java: :(t%140java.io.PrintStream#println(Ljava/lang/String;)V"RP
+N   Generated pages will not contain a diagramatic view of table relationships.*
+2*ç
+6k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java1 1("u
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java1 1(
+""*Ž
+7k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java(& ((*Ä
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java* *(A%00java.io.PrintStream#println(Ljava/lang/String;)V"
+Warning: Failed to run dot.²
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java+4 +(N%1?org.schemaspy.util.Dot#getSupportedVersions()Ljava/lang/String;•
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java+# +(N%2__concat"
+   Download "
+
+%1«
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java+ +(O%30java.io.PrintStream#println(Ljava/lang/String;)V"
+
+%2ï
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java, ,(l%40java.io.PrintStream#println(Ljava/lang/String;)V"JH
+F   from www.graphviz.org and make sure that dot is either in your pathé
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java- -(f%50java.io.PrintStream#println(Ljava/lang/String;)V"DB
+@   or point to where you installed Graphviz with the -gv option.ö
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlDiagramFormatter.java. .(s%60java.io.PrintStream#println(Ljava/lang/String;)V"QO
+M   Generated pages will not contain a diagramtic view of table relationships.*
+6

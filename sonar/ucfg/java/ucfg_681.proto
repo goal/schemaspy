@@ -1,0 +1,27 @@
+
+Rorg.schemaspy.util.DbSpecificConfig#findOptions(Ljava/lang/String;)Ljava/util/Set;
+__unknown_file (connectionSpec"4*ﬂ
+1g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificConfig.javaL L("q
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificConfig.javaL L(
+""*¿
+2g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificConfig.javaJ J(©
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificConfig.javaJ J(-%12java.util.regex.Matcher#group(I)Ljava/lang/String;"
+""ù
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificConfig.javaJ J(.%2&java.util.Set#add(Ljava/lang/Object;)Z"
+
+%1*
+2
+1*Ã
+4g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificConfig.javaG# G(8’
+g
+]/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DbSpecificConfig.javaH H(?%0Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+
+connectionSpec*
+2
+1

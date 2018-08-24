@@ -1,0 +1,18 @@
+
+Üorg.schemaspy.logging.LogLevelConditionalThrowableProxyConverter#convert(Lch/qos/logback/classic/spi/ILoggingEvent;)Ljava/lang/String;
+__unknown_file (event"2"1*ú
+1Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java- -("è
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java- -(*
+""*≥
+2Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java, ,(î
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java, ,('%0|ch.qos.logback.classic.pattern.ThrowableProxyConverter#convert(Lch/qos/logback/classic/spi/ILoggingEvent;)Ljava/lang/String;"	
+
+event"è
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java, ,((
+
+%0

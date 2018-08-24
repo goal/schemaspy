@@ -1,0 +1,48 @@
+
+:org.schemaspy.model.TableIndex#equals(Ljava/lang/Object;)Z
+__unknown_file (other"2"4"7"10"1*Æ
+1d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java² ²(™
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java² ²( %3-java.lang.Object#toString()Ljava/lang/String;™
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java²2 ²(D%4-java.lang.Object#toString()Ljava/lang/String;²
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java² ²(E%56java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z"
+
+%3"
+
+%4"n
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java² ²(F
+""*Ù
+2d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java± ±("n
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java± ±(*
+""*à
+4d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java¯ ¯(¦
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java¯ ¯(%0:org.schemaspy.model.TableIndex#getName()Ljava/lang/String;¦
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java¯. ¯(K%1:org.schemaspy.model.TableIndex#getName()Ljava/lang/String;²
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java¯ ¯(L%26java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z"
+
+%0"
+
+%1"n
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java¯ ¯(M
+""*Ù
+7d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java«D «(I"n
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.java«= «(J
+""*Ú
+10d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javaª" ª(&"n
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javaª ª('
+""

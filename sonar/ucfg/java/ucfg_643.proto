@@ -1,0 +1,84 @@
+
+µorg.schemaspy.service.TableService#addRemoteTable(Lorg/schemaspy/model/Database;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)Lorg/schemaspy/model/Table;
+__unknown_file (dbremoteCatalogremoteSchemaremoteTableNamebaseContainerlogical"6*·
+1h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÌ Ì("r
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÌ Ì(
+""*û
+2h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÁ Á(◊
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÁ Á(<%5=org.slf4j.Logger#debug(Ljava/lang/String;Ljava/lang/Object;)V"
+Adding remote table {}"
+
+
+fullNameœ
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÈ È(>%6Ijava.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;"
+
+
+fullName"
+""*
+1* 
+3h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java„. „(0’
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java„ „(n%4èorg.schemaspy.model.RemoteTable#<init>(Lorg/schemaspy/model/Database;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V"
+
+db"
+
+remoteCatalog"
+
+remoteSchema"
+
+remoteTableName"
+
+baseContainer*
+2*—
+4h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java·5 ·(7‹
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java· ·(u%3ñorg.schemaspy.model.LogicalRemoteTable#<init>(Lorg/schemaspy/model/Database;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V"
+
+db"
+
+remoteCatalog"
+
+remoteSchema"
+
+remoteTableName"
+
+baseContainer*
+2*—
+5h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaﬁ ﬁ(Ÿ
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaﬁ ﬁ(>%2=org.slf4j.Logger#debug(Ljava/lang/String;Ljava/lang/Object;)V"
+Creating remote table {}"
+
+
+fullName*
+3
+4*◊
+6h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java€ €(¢
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java€ €(\%0xorg.schemaspy.model.Database#getRemoteTableKey(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+
+remoteCatalog"
+
+remoteSchema"
+
+remoteTableNameÇ
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java€ €(]fullName__id"
+
+%0µ
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java‹/ ‹(T%17java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;"
+
+
+fullName*
+5
+1

@@ -1,0 +1,85 @@
+
+~org.schemaspy.service.TableService#fetchNumRows(Lorg/schemaspy/model/Database;Lorg/schemaspy/model/Table;Ljava/lang/String;Z)J
+__unknown_file (dbtableclauseforceQuotes"16*ú
+12h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÜ& Ü(0•
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÜB Ü(P%124java.lang.StringBuilder#toString()Ljava/lang/String;*
+11*◊
+13h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÖ Ö(‡
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÖ Ö(@%11=org.slf4j.Logger#trace(Ljava/lang/String;Ljava/lang/Object;)V"(&
+$Fetch number of rows using sql: '{}'"
+""*
+12*∏
+14h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÉ É(•
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÉ6 É(E%85org.schemaspy.model.Table#getName()Ljava/lang/String;“
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÉ É(F%9Zorg.schemaspy.service.SqlService#getQuotedIdentifier(Ljava/lang/String;)Ljava/lang/String;"
+
+%8ƒ
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÉ É(G%10Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%9*
+13*≥
+15h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÅ Å(•
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÅ2 Å(A%55org.schemaspy.model.Table#getName()Ljava/lang/String;Œ
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÅ Å(B%6Vorg.schemaspy.service.SqlService#quoteIdentifier(Ljava/lang/String;)Ljava/lang/String;"
+
+%5√
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÅ Å(C%7Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%6*
+13*·
+5h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaå å("r
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaå å(
+""*˘
+16h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java˚. ˚(7∞
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java˚ ˚(8%03java.lang.StringBuilder#<init>(Ljava/lang/String;)V"	
+select «
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java¸ ¸(%1Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+
+clause«
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java˝ ˝(%2Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+ from Ò
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java˛ ˛(9%3eorg.schemaspy.service.TableService#getSchemaOrCatalog(Lorg/schemaspy/model/Table;Z)Ljava/lang/String;"	
+
+table"
+
+forceQuotes√
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.java˛ ˛(:%4Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%3*
+14
+15*·
+6h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaä ä(%"r
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaä ä(%
+""*‘
+11h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÜ& Ü(Q€
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/TableService.javaÜ& Ü(Q%13aorg.schemaspy.service.SqlService#prepareStatement(Ljava/lang/String;)Ljava/sql/PreparedStatement;"
+
+%12*
+5
+6

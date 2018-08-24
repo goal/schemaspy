@@ -1,0 +1,31 @@
+
+dorg.schemaspy.db.config.PropertiesFinder#addExtensionIfMissing(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (dbType"4*é
+1l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.java= =(^"v
+l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.java= =(^
+""*’
+2l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.java=G =(M™
+l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.java=G =(]%2__concat"
+
+
+dbType"
+.properties*
+1*ê
+4l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.java= =(°
+l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.java= =(#%00java.lang.String#toLowerCase()Ljava/lang/String;"
+
+
+dbType»
+l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.java= =(;%1.java.lang.String#endsWith(Ljava/lang/String;)Z"
+
+%0"
+.properties*
+2
+1

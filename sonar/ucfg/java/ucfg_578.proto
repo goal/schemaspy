@@ -1,0 +1,281 @@
+
+Çorg.schemaspy.output.xml.dom.XmlTableFormatter#appendColumn(Lorg/w3c/dom/Node;Lorg/schemaspy/model/TableColumn;)Lorg/w3c/dom/Node;
+__unknown_file (	tableNodecolumn"15*ô
+12t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaû û(ñ
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaû û(M%19morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+defaultValue"
+
+defaultValue*
+11*˘
+1t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaæ æ("~
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaæ æ(
+""*û
+13t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaö ö('Ï
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaö ö(5%17]org.schemaspy.output.xml.dom.XmlTableFormatter#asBinary(Ljava/lang/String;)Ljava/lang/String;"
+
+defaultValueì
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaö ö(5defaultValue__id"
+
+%17ñ
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaú ú(S%18morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+defaultValueIsBinary"
+true*
+12*•
+14t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaó" ó((™
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaó" ó(E%15-java.lang.Object#toString()Ljava/lang/String;ì
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaó ó(FdefaultValue__id"
+
+%15€
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaò ò(&%16Lorg.schemaspy.output.xml.dom.XmlTableFormatter#isBinary(Ljava/lang/String;)Z"
+
+defaultValue*
+13
+12*π
+3t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java± ±(&‘
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java± ±(>%38Korg.w3c.dom.Document#createElement(Ljava/lang/String;)Lorg/w3c/dom/Element;"
+
+parent¡
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaµ> µ(R%39Dorg.schemaspy.model.ForeignKeyConstraint#getName()Ljava/lang/String;ã
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaµ µ(S%40morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+
+foreignKey"
+
+%39µ
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java∂9 ∂(K%418org.schemaspy.model.Table#getCatalog()Ljava/lang/String;É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java∂ ∂(L%42morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+"""
+
+%41¥
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java∑8 ∑(I%437org.schemaspy.model.Table#getSchema()Ljava/lang/String;É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java∑ ∑(J%44morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+"""
+
+%43≤
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java∏7 ∏(F%455org.schemaspy.model.Table#getName()Ljava/lang/String;É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java∏ ∏(G%46morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+"""
+
+%45∏
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaπ8 π(N%47;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaπ π(O%48morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+"""
+
+%47∫
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java∫; ∫(a%49-java.lang.String#valueOf(Z)Ljava/lang/String;"
+"""
+""à
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java∫ ∫(b%50morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""	
+implied"
+
+%49∫
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaªC ª(q%51-java.lang.String#valueOf(Z)Ljava/lang/String;"
+"""
+""ê
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaª ª(r%52morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+onDeleteCascade"
+
+%51*
+3
+1*«
+15t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaã ã(%œ
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaå å(8%0Korg.w3c.dom.Document#createElement(Ljava/lang/String;)Lorg/w3c/dom/Element;"
+"" 
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaè2 è(P%1>java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;"
+"""
+""Å
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaè è(Q%2morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+id"
+
+%1∑
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaê4 ê(D%3;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaê ê(E%4morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+name"
+
+%3ª
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaë4 ë(H%5?org.schemaspy.model.TableColumn#getTypeName()Ljava/lang/String;É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaë ë(I%6morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+type"
+
+%5π
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaí4 í(V%7-java.lang.String#valueOf(I)Ljava/lang/String;"
+"""
+""É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaí í(W%8morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+size"
+
+%7π
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaì6 ì(_%9-java.lang.String#valueOf(I)Ljava/lang/String;"
+"""
+""Ü
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaì ì(`%10morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+
+digits"
+
+%9∫
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaî8 î([%11-java.lang.String#valueOf(Z)Ljava/lang/String;"
+"""
+""â
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaî î(\%12morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+
+nullable"
+
+%11∫
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaï; ï(a%13-java.lang.String#valueOf(Z)Ljava/lang/String;"
+"""
+""å
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaï ï(b%14morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+autoUpdated"
+
+%13*
+14
+11*ª
+6t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java£ £(%”
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java£ £(<%23Korg.w3c.dom.Document#createElement(Ljava/lang/String;)Lorg/w3c/dom/Element;"	
+child¡
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaß= ß(Q%24Dorg.schemaspy.model.ForeignKeyConstraint#getName()Ljava/lang/String;ã
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaß ß(R%25morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+
+foreignKey"
+
+%24µ
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java®8 ®(J%268org.schemaspy.model.Table#getCatalog()Ljava/lang/String;É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java® ®(K%27morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+"""
+
+%26¥
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java©7 ©(H%287org.schemaspy.model.Table#getSchema()Ljava/lang/String;É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java© ©(I%29morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+"""
+
+%28≤
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java™6 ™(E%305org.schemaspy.model.Table#getName()Ljava/lang/String;É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java™ ™(F%31morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+"""
+
+%30∏
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java´7 ´(L%32;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java´ ´(M%33morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+"""
+
+%32∫
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java¨: ¨(`%34-java.lang.String#valueOf(Z)Ljava/lang/String;"
+"""
+""à
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java¨ ¨(a%35morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""	
+implied"
+
+%34∫
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java≠B ≠(p%36-java.lang.String#valueOf(Z)Ljava/lang/String;"
+"""
+""ê
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java≠ ≠(q%37morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""
+onDeleteCascade"
+
+%36*	
+3
+6
+1*é
+8t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java† †(pá
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java† †(p%22morg.schemaspy.output.xml.dom.DOMUtil#appendAttribute(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)V"
+"""	
+remarks"
+""*	
+3
+6
+1*Ω
+9t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java†[ †(aº
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java†[ †(o%21?org.schemaspy.model.TableColumn#getComments()Ljava/lang/String;*
+8*¡
+11t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java† †(º
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java†7 †(K%20?org.schemaspy.model.TableColumn#getComments()Ljava/lang/String;*
+8
+9

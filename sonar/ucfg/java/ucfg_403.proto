@@ -1,0 +1,23 @@
+
+6org.schemaspy.model.Schema#equals(Ljava/lang/Object;)Z
+__unknown_file (o"2"1*Í
+1^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Schema.javaF
+ F("h
+^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Schema.javaF F(
+""*‘
+2^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Schema.javaD D(œ
+^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Schema.javaD
+ D(%06org.schemaspy.model.Schema#getName()Ljava/lang/String;¢
+^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Schema.javaD
+ D(,%1,java.lang.String#equals(Ljava/lang/Object;)Z"
+
+%0"
+"""h
+^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Schema.javaD D(-
+""

@@ -1,0 +1,76 @@
+
+Morg.schemaspy.DbAnalyzer#getRailsConstraints(Ljava/util/Map;)Ljava/util/List;
+__unknown_file (tables"9"1*Õ
+1^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java¨ ¨("h
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java¨ ¨( 
+""*¥
+5^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java£4 £(@∆
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java£4 £(P%7Xorg.schemaspy.model.Table#getColumn(Ljava/lang/String;)Lorg/schemaspy/model/TableColumn;"
+ID*
+9
+1*±
+6^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaü& ü(0ê
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaü> ü(Q%3java.lang.String#length()I"
+
+
+columnName∂
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaü& ü(V%40java.lang.String#substring(II)Ljava/lang/String;"
+
+
+columnName"
+"""
+""x
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaü ü(Wsingular__id"
+
+%4¡
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java†. †(L%5Morg.schemaspy.util.Inflection#pluralize(Ljava/lang/String;)Ljava/lang/String;"
+
+
+singularÄ
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java† †(MprimaryTableName__id"
+
+%5≥
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java°) °(E%67java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;"
+
+primaryTableName*	
+5
+9
+1*û
+7^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaûO û(Y≠
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaûO û(i%2.java.lang.String#endsWith(Ljava/lang/String;)Z"
+
+
+columnName"
+_id*	
+6
+9
+1*Ø
+9^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaù$ ù(*°
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaù$ ù(4%0;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;û
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaù$ ù(B%10java.lang.String#toLowerCase()Ljava/lang/String;"
+
+%0z
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaù ù(C
+columnName__id"
+
+%1*	
+7
+9
+1

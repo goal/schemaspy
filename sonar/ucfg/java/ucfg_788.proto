@@ -1,0 +1,21 @@
+
+<org.schemaspy.view.DotNode#getTextWidth(Ljava/lang/String;)I
+__unknown_file (text"1*„
+1`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaõ* õ(?˜
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaø ø(;%00org.schemaspy.Config#getFont()Ljava/lang/String;«
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaø ø(Q%1+java.awt.Font#<init>(Ljava/lang/String;II)V"
+
+%0"
+"""
+""ç
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaù ù(5%2mjava.awt.Font#getStringBounds(Ljava/lang/String;Ljava/awt/font/FontRenderContext;)Ljava/awt/geom/Rectangle2D;"
+
+text"
+"""j
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaù ù(B
+""

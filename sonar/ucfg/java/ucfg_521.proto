@@ -1,0 +1,18 @@
+
+Eorg.schemaspy.model.TableIndex#getColumnsAsString()Ljava/lang/String;
+__unknown_file ("4"1*ö
+1b
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javav v(ž
+b
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javav v(%14java.lang.StringBuilder#toString()Ljava/lang/String;"l
+b
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javav v(
+
+%1*°
+4b
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javas s(¾
+b
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javas s(!%0Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+ + *
+4
+1

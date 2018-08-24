@@ -1,0 +1,35 @@
+
+Sorg.schemaspy.model.DatabaseObject#compareTo(Lorg/schemaspy/model/DatabaseObject;)I
+__unknown_file (column2"8*›
+1f
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/DatabaseObject.javad d("p
+f
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/DatabaseObject.javad d(
+""*ê
+4f
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/DatabaseObject.java` `(∞
+f
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/DatabaseObject.java` `('%3Borg.schemaspy.model.DatabaseObject#getTypeName()Ljava/lang/String;∞
+f
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/DatabaseObject.java`< `(Q%4Borg.schemaspy.model.DatabaseObject#getTypeName()Ljava/lang/String;∑
+f
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/DatabaseObject.java` `(R%59java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I"
+
+%3"
+
+%4*
+1*ì
+8f
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/DatabaseObject.javaZ Z(∞
+f
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/DatabaseObject.javaZ Z(#%0Borg.schemaspy.model.DatabaseObject#getFullName()Ljava/lang/String;∞
+f
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/DatabaseObject.javaZ8 Z(M%1Borg.schemaspy.model.DatabaseObject#getFullName()Ljava/lang/String;∑
+f
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/DatabaseObject.javaZ Z(N%29java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I"
+
+%0"
+
+%1*
+4
+1

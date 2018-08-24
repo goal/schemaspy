@@ -1,0 +1,15 @@
+
+\org.schemaspy.service.DbmsService#getSQLKeywords(Ljava/sql/DatabaseMetaData;)Ljava/util/Set;
+__unknown_file (databaseMetaData"1*Ë
+1g
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DbmsService.java‚3 ‚(@«
+g
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DbmsService.javaƒ$ ƒ(E%0<java.sql.DatabaseMetaData#getSQLKeywords()Ljava/lang/String;»
+g
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DbmsService.javaƒ$ ƒ(P%1=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;"
+
+%0"
+,"q
+g
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DbmsService.java† †(
+""

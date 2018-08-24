@@ -1,0 +1,15 @@
+
+aorg.schemaspy.SchemaSpyConfiguration#findDefaultProvider([Ljava/lang/String;)Ljava/util/Optional;
+__unknown_file (args"1*ù
+1h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaSpyConfiguration.java?* ?(B·
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaSpyConfiguration.java@ @(9%0?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;"
+""Û
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaSpyConfiguration.java@ @(:%1corg.schemaspy.cli.PropertyFileDefaultProviderFactory#create(Ljava/lang/String;)Ljava/util/Optional;"
+
+%0"r
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaSpyConfiguration.java@ @(;
+""

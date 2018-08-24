@@ -1,0 +1,25 @@
+
+porg.schemaspy.cli.ConfigFileArgumentParser#parseConfigFileArgumentValue([Ljava/lang/String;)Ljava/util/Optional;
+__unknown_file (args"1*²
+1n
+d/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/ConfigFileArgumentParser.java# #(†
+n
+d/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/ConfigFileArgumentParser.java# #(P%0Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;"
+
+args",*
+(Command line arguments must not be null.¯
+n
+d/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/ConfigFileArgumentParser.java', '(E%19org.schemaspy.Config#getLoadedFromJar()Ljava/lang/String;–
+n
+d/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/ConfigFileArgumentParser.java' '(E%2__concat"
+
+java -jar "
+
+%1î
+n
+d/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/ConfigFileArgumentParser.java%  '(F%3pcom.beust.jcommander.JCommander$Builder#programName(Ljava/lang/String;)Lcom/beust/jcommander/JCommander$Builder;"
+
+%2"x
+n
+d/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/ConfigFileArgumentParser.java. .(2
+""

@@ -1,0 +1,28 @@
+
+\org.schemaspy.DbAnalyzer#getDefaultNullStringColumns(Ljava/util/Collection;)Ljava/util/List;
+__unknown_file (tables"5"1*Í
+1^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java¸ ¸(!"h
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java¸ ¸(<
+""*Ø
+5^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java°+ °(7“
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java°+ °(B%0-java.lang.Object#toString()Ljava/lang/String;}
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java° °(CdefaultString__id"
+
+%0¢
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java± ±(,%1)java.lang.String#trim()Ljava/lang/String;"
+
+defaultString°
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java± ±(G%26java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z"
+
+%1"
+
+'null'*
+5
+1

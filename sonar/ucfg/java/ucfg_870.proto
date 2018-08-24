@@ -1,0 +1,26 @@
+
+Forg.schemaspy.view.MustacheTableColumn#getComments()Ljava/lang/String;
+__unknown_file ("1*û
+1l
+`/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableColumn.javaÄ Ä( ≥
+l
+`/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableColumn.javaÄ Ä(.%0?org.schemaspy.model.TableColumn#getComments()Ljava/lang/String;Ü
+l
+`/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableColumn.javaÄ Ä(/comments__id"
+
+%0‰
+l
+`/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableColumn.javaÅ Å(6%1Zorg.schemaspy.util.Markdown#toHtml(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+
+
+comments"
+""Ü
+l
+`/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableColumn.javaÅ Å(6comments__id"
+
+%1"|
+l
+`/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableColumn.javaÇ Ç(
+
+
+comments

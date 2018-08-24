@@ -1,0 +1,18 @@
+
+aorg.schemaspy.util.CaseInsensitiveMap#put(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+__unknown_file (keyvalue"1*ä
+1i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/CaseInsensitiveMap.java: :(ª
+i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/CaseInsensitiveMap.java: :(*%00java.lang.String#toUpperCase()Ljava/lang/String;"
+
+keyÑ
+i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/CaseInsensitiveMap.java: :(2%1Mjava.util.HashMap#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;"
+
+%0"	
+
+value"s
+i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/CaseInsensitiveMap.java: :(3
+""

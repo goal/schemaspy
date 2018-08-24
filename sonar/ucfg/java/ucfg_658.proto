@@ -1,0 +1,29 @@
+
+[org.schemaspy.service.ViewService#getFromTextColumn(Ljava/sql/ResultSet;)Ljava/lang/String;
+__unknown_file (	resultSet"2"4"1*ÿ
+1e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/ViewService.javar r(¡
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/ViewService.javar r((%34java.lang.StringBuilder#toString()Ljava/lang/String;"o
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/ViewService.javar r()
+
+%3*ñ
+2e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/ViewService.javap p(¹
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/ViewService.javap" p(=%1Bjava.sql.ResultSet#getString(Ljava/lang/String;)Ljava/lang/String;"
+textÀ
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/ViewService.javap p(>%2Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%1*
+2
+1*Ì
+4e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/ViewService.javal l(×
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/ViewService.javal l(U%0*org.slf4j.Logger#warn(Ljava/lang/String;)V"><
+:ColumnLabel 'text' has been deprecated and will be removed*
+2
+1

@@ -1,0 +1,35 @@
+
+Morg.schemaspy.view.DotConnector#compareTo(Lorg/schemaspy/view/DotConnector;)I
+__unknown_file (other"8"12"1*Ç
+12e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotConnector.javaù ù(®
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotConnector.javaù ù(&%0;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;®
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotConnector.javaù; ù(V%1;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;∂
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotConnector.javaù ù(W%29java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I"
+
+%0"
+
+%1*
+8
+1*€
+1e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotConnector.java§ §("o
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotConnector.java§ §(
+""*˛
+8e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotConnector.java° °(®
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotConnector.java° °('%3;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;®
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotConnector.java°< °(X%4;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;∂
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotConnector.java° °(Y%59java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I"
+
+%3"
+
+%4*
+1

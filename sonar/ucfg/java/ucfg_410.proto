@@ -1,0 +1,15 @@
+
+oorg.schemaspy.model.Table#addColumn(Lorg/schemaspy/model/xml/TableColumnMeta;)Lorg/schemaspy/model/TableColumn;
+__unknown_file (colMeta"1*Ï
+1_
+S/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Table.java‚- ‚(1¢
+_
+S/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Table.java„ „($%0;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;Ø
+_
+S/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Table.java„ „(-%1aorg.schemaspy.util.CaseInsensitiveMap#put(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;"
+
+%0"
+"""i
+_
+S/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Table.java† †(
+""

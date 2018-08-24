@@ -1,0 +1,16 @@
+
+?org.schemaspy.model.Database#getConnectTime()Ljava/lang/String;
+__unknown_file ("1*é
+1b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaÅ Å(Î
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaÅ" Å(X%0djava.time.format.DateTimeFormatter#ofPattern(Ljava/lang/String;)Ljava/time/format/DateTimeFormatter;"
+EEE MMM dd HH:mm z yyyy»
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaÅ Å(Y%1Vjava.time.ZonedDateTime#format(Ljava/time/format/DateTimeFormatter;)Ljava/lang/String;"
+
+%0"l
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaÅ Å(Z
+
+%1

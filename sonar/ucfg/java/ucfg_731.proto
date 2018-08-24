@@ -1,0 +1,20 @@
+
+Korg.schemaspy.util.Inflection#replace(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (word"1*ª
+1c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(È
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(.%0Mjava.util.regex.Pattern#compile(Ljava/lang/String;I)Ljava/util/regex/Pattern;"
+"""
+""Ç
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(<%1Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+
+word»
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(T%2Hjava.util.regex.Matcher#replaceAll(Ljava/lang/String;)Ljava/lang/String;"
+"""m
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(U
+
+%2

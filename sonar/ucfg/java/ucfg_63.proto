@@ -1,0 +1,45 @@
+
+Borg.schemaspy.Config#getTableExclusions()Ljava/util/regex/Pattern;
+__unknown_file ("1"12*ò
+12Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÚ# Ú(,Æ
+Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÚ# Ú(2%0Dorg.schemaspy.Config#pullParam(Ljava/lang/String;)Ljava/lang/String;"
+-Iy
+Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÚ Ú(3strExclusions__id"
+
+%0*
+
+7
+9
+11*≈
+1Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÅ Å("d
+Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÅ Å(
+""*®
+7Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.java˘" ˘()¡
+Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.java˘" ˘(@%2Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;"
+
+strExclusions*
+1*ﬂ
+9Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaˆ  ˆ(7y
+Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaˆ ˆ(7strExclusions__id"
+""*
+7*§
+11Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÙ  Ù(&æ
+Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÙ  Ù(J%1=java.lang.System#getenv(Ljava/lang/String;)Ljava/lang/String;"
+schemaspy.tableExclusionsy
+Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÙ Ù(JstrExclusions__id"
+
+%1*
+7
+9

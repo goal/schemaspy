@@ -1,0 +1,27 @@
+
+Corg.schemaspy.model.TableColumn#matches(Ljava/util/regex/Pattern;)Z
+__unknown_file (regex"1*…
+1e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.javaî î(¢
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.javaî î(1%05org.schemaspy.model.Table#getName()Ljava/lang/String;…
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.javaî î(7%1__concat"
+
+%0"
+""¨
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.javaî: î(C%2;org.schemaspy.model.TableColumn#getName()Ljava/lang/String;…
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.javaî î(C%3__concat"
+
+%1"
+
+%2Ç
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.javaî î(D%4Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+
+%3"o
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.javaî î(O
+""

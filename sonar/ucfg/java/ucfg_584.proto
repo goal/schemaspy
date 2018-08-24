@@ -1,0 +1,32 @@
+
+]org.schemaspy.output.xml.dom.XmlTableFormatter#asBinary(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (str"5*¬
+1t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java® ®(°
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java® ®(%34java.lang.StringBuilder#toString()Ljava/lang/String;"~
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java® ®(
+
+%3*¼
+3t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java¬ ¬(æ
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java¬ ¬(*%1Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;"
+"""
+%02X"
+""Ï
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java¬ ¬(+%2Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+
+%1*
+3
+1*¦
+5t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java© ©(¢
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.java© ©(%%0java.lang.String#getBytes()[B"
+
+str*
+3
+1

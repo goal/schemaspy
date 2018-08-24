@@ -1,0 +1,36 @@
+
+@org.schemaspy.view.MustacheTableIndex#getKey()Ljava/lang/String;
+__unknown_file ("6*Ë
+1i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableIndex.java2 2("x
+i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableIndex.java2 2(
+	
+keyType*Ü
+2i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableIndex.java0 0((ê
+i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableIndex.java0 0((keyType__id"
+ title='Indexed'*
+1*õ
+3i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableIndex.java. .(=•
+i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableIndex.java. .(=keyType__id")'
+% class='uniqueKey' title='Unique Key'*
+1*ù
+5i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableIndex.java, ,(?ß
+i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableIndex.java, ,(?keyType__id"+)
+' class='primaryKey' title='Primary Key'*
+1*˛
+6i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableIndex.java) )(Ç
+i
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/MustacheTableIndex.java) )(keyType__id"
+
+""*	
+2
+3
+5
